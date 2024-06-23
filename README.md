@@ -16,7 +16,7 @@ git
 - [x] Making Changes to the Repository
 - [x] Committing Changes Locally
 - [x] Moving Changes to GitHub
-- [ ] Standard Work Flow
+- [x] Standard Work Flow
 
 ---
 
